@@ -274,6 +274,7 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
 
 - Market Analysis
   - [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Fragment market statistics.
+  - [Telegram Gift Floors](https://github.com/w3radar/telegram-gift-floors) - Open daily floor prices of Telegram gift collections on Fragment, CSV/JSON, CC BY 4.0.
 
 ---
 
